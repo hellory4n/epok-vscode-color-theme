@@ -1,0 +1,21 @@
+{
+    "name": "epok-color-theme",
+    "displayName": "epok color theme",
+    "description": "the epokest vscode color theme you'll ever see 😎",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "epok color theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/epok color theme-color-theme.json"
+            }
+        ]
+    }
+}
